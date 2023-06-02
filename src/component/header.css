@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #a7ff7b4c;
+    color: #e4a000;
+  
+  }
+  .elements{
+    margin-left: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+ h3 {
+    color: #221800;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 30px;
+  }
+  
+ h3:hover {
+    text-decoration: underline;
+  }
+  button{
+    width: 160px;
+    height: 40px;
+    color: white;
+    border-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: green;
+ }
